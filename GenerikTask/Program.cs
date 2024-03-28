@@ -7,7 +7,6 @@ internal class Program
         while (true)
         {
             Console.WriteLine("Choose Action:\n"); 
-
             Console.WriteLine("1.Show Praaducts");
             Console.WriteLine("2.Add Praduct");
             int n=int.Parse(Console.ReadLine());
