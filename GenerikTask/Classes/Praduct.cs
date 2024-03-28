@@ -17,5 +17,4 @@
     public void Display() =>
         Console.WriteLine($"{Id}.Product Name is {Name}\n{Name}" +
             $" Cost is {Cost} Weight is {Weight} kg");
-
 }
